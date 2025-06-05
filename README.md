@@ -2,6 +2,8 @@
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8811CU, RTL8821CU and RTL8731AU Chipsets
 
+WARNING: prefer the native driver present in kernel 6.12 or greater.
+
 - v5.12.0 (Realtek) (20210118) plus updates from the Linux community
 
 ### Features
