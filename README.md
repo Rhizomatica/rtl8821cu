@@ -300,13 +300,13 @@ cd ~/src
 #### Step 6: Download the driver
 
 ```
-git clone https://github.com/morrownr/8821cu-20210118.git
+git clone https://github.com/Rhizomatica/8821cu.git
 ```
 
 #### Step 7: Move to the newly created driver directory
 
 ```
-cd ~/src/8821cu-20210118
+cd ~/src/8821cu
 ```
 
 #### Step 8: (optional) Enable Concurrent Mode ( cmode-on.sh )
